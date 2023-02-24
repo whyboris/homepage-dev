@@ -1,0 +1,13 @@
+baseURL = 'https://yboris.dev/'
+googleAnalytics = "G-J32QSP5BLG"
+languageCode = 'en-us'
+title = 'Boris Yakubchik'
+disableKinds = ["taxonomy", "taxonomyTerm"]
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+        unsafe = true
+[Params]
+  images = ["img/social.png"]
+  production = true
+  description = "Web developer website of Boris Yakubchik"
