@@ -7,7 +7,7 @@ id: 1
 
 # Simplest File Renamer
 
-<img src="/img/gallery/simplest-file-renamer.jpg">
+<img src="/img/gallery/simplest-file-renamer.jpg" style="max-width: 100%" alt="Simplest File Renamer screenshot">
 
 Rename your files directly or with your favorite text editor, making use of all your 1337 keyboard shortcuts.
 

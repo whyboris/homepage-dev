@@ -7,7 +7,7 @@ id: 1
 
 # Gravity Wars
 
-<img src="/img/gallery/gravity-wars.jpg">
+<img src="/img/gallery/gravity-wars.jpg" style="max-width: 100%" alt="Gravity Wars screenshot">
 
 I wrote this in 2008 while learning how to code. It works well-enough even on Windows 10.
 
