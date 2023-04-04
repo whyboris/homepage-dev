@@ -13,7 +13,7 @@ See the code on [GitHub](https://github.com/whyboris/Simplest-File-Renamer)
 
 ## Downloads
 
-- [Windows](https://github.com/whyboris/Simplest-File-Renamer/releases/download/v1.0.0/Simplest.File.Renamer-1.0.0.AppImage) _(47mb)_
-- [Windows Portable](https://github.com/whyboris/Simplest-File-Renamer/releases/download/v1.0.0/Simplest.File.Renamer-1.0.0.dmg) _(43mb)_
-- [Mac](https://github.com/whyboris/Simplest-File-Renamer/releases/download/v1.0.0/Simplest.File.Renamer.Setup.1.0.0.exe) _(62mb)_
-- [Linux](https://github.com/whyboris/Simplest-File-Renamer/releases/download/v1.0.0/Simplest.File.Renamer.1.0.0.exe) _(72mb)_
+- [Windows](https://github.com/whyboris/Simplest-File-Renamer/releases/download/v1.0.0/Simplest.File.Renamer.Setup.1.0.0.exe) _(47mb)_
+- [Windows Portable](https://github.com/whyboris/Simplest-File-Renamer/releases/download/v1.0.0/Simplest.File.Renamer.1.0.0.exe) _(43mb)_
+- [Mac](https://github.com/whyboris/Simplest-File-Renamer/releases/download/v1.0.0/Simplest.File.Renamer-1.0.0.dmg) _(62mb)_
+- [Linux](https://github.com/whyboris/Simplest-File-Renamer/releases/download/v1.0.0/Simplest.File.Renamer-1.0.0.AppImage) _(72mb)_
