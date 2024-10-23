@@ -97,6 +97,12 @@ date: '2023-03-01'
       title="JSON-i18n-Editor"
 >}}
 {{< figure
+      copy="CLI to flatten the folder by moving all files to current directory"
+      image="/img/gallery/flatten-this-folder.png"
+      link="https://github.com/whyboris/flatten-this-folder"
+      title="Flatten This Folder"
+>}}
+{{< figure
       copy="A customizable report after you run your Karma tests"
       image="/img/gallery/karma-helpful-reporter.png"
       link="https://github.com/whyboris/karma-helpful-reporter"
