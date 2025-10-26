@@ -9,10 +9,6 @@ date: '2023-03-01'
 
 I wrote this in 2008 while learning how to code. It works well-enough even on Windows 10.
 
-## GitHub
-
-In 2020 I ported the old code to the Lua-based Löve2D. See the new code on [GitHub](https://github.com/whyboris/Gravity-Wars).
-
 ## Download
 
 [Windows executable](/gravitywars0.991.exe) _(Microsoft .NET Framework 3.5 required)_
@@ -20,6 +16,10 @@ In 2020 I ported the old code to the Lua-based Löve2D. See the new code on [Git
 ## Code
 
 [Microsoft Visual C++ 2008](/gravitywars0.988.zip) _(It's over a decade old!)_
+
+## GitHub
+
+In 2020 I ported the old code to the Lua-based Löve2D. See the new code on [GitHub](https://github.com/whyboris/Gravity-Wars).
 
 ## About
 

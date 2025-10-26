@@ -27,7 +27,7 @@
   <meta name="robots" content="noindex, nofollow" />
 {{ end }}
 
-{{ $style := resources.Get "scss/lol.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+{{ $style := resources.Get "scss/lol.scss" | toCSS | resources.Minify | resources.Fingerprint }}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}" />
 
 {{ block "favicon" . }}
