@@ -11,4 +11,4 @@ I'm proud to be a part of the [_Effective Altruism_](https://effectivealtruism.c
 
 I'm also proud of the software I wrote: [Video Hub App](https://videohubapp.com), I hope you find it useful.
 
-Currently I am spending time working on house stuff (building a kitchen, treehouse, a room in the garden, and numerous smaller projects).
+Currently I am spending time working on house stuff (building a kitchen, treehouse, a room in the garden, and numerous smaller projects). See my personal website, [yboris.com](https://yboris.com)
